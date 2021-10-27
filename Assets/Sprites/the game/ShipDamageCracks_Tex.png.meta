@@ -1,0 +1,371 @@
+fileFormatVersion: 2
+guid: d5789f057e2d55e42bd7910999ff2a3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2153025018900697799
+    second: ShipDamageCracks_Tex_0
+  - first:
+      213: 7409470486741396236
+    second: ShipDamageCracks_Tex_1
+  - first:
+      213: -1980334435144413250
+    second: ShipDamageCracks_Tex_2
+  - first:
+      213: -7489119909803722915
+    second: ShipDamageCracks_Tex_3
+  - first:
+      213: -1985120525746414658
+    second: ShipDamageCracks_Tex_4
+  - first:
+      213: 4311821454868535304
+    second: ShipDamageCracks_Tex_5
+  - first:
+      213: -4542753369979510773
+    second: ShipDamageCracks_Tex_6
+  - first:
+      213: -7837239078331278566
+    second: ShipDamageCracks_Tex_7
+  - first:
+      213: -9162675674924221126
+    second: ShipDamageCracks_Tex_8
+  - first:
+      213: -7179785797583816478
+    second: ShipDamageCracks_Tex_9
+  - first:
+      213: 792790505375018369
+    second: ShipDamageCracks_Tex_10
+  - first:
+      213: 194164001947072895
+    second: ShipDamageCracks_Tex_11
+  - first:
+      213: -8361008585776859378
+    second: ShipDamageCracks_Tex_12
+  - first:
+      213: 1044742338984118287
+    second: ShipDamageCracks_Tex_13
+  - first:
+      213: 6513817834710750338
+    second: ShipDamageCracks_Tex_14
+  - first:
+      213: 7901930791639851331
+    second: ShipDamageCracks_Tex_15
+  - first:
+      213: 2617703113823230792
+    second: ShipDamageCracks_Tex_16
+  - first:
+      213: -1988327434758106383
+    second: ShipDamageCracks_Tex_17
+  - first:
+      213: 2715252692967982571
+    second: ShipDamageCracks_Tex_18
+  - first:
+      213: 5830217163748281752
+    second: ShipDamageCracks_Tex_19
+  - first:
+      213: 2833264585193271594
+    second: ShipDamageCracks_Tex_20
+  - first:
+      213: -5456791256417693920
+    second: ShipDamageCracks_Tex_21
+  - first:
+      213: 1777378785518773383
+    second: ShipDamageCracks_Tex_22
+  - first:
+      213: 6613288774308035405
+    second: ShipDamageCracks_Tex_23
+  - first:
+      213: 5815577272737318013
+    second: ShipDamageCracks_Tex_24
+  - first:
+      213: 3067962885038581814
+    second: ShipDamageCracks_Tex_25
+  - first:
+      213: -5191137530061422096
+    second: ShipDamageCracks_Tex_26
+  - first:
+      213: 5141919728341415503
+    second: ShipDamageCracks_Tex_27
+  - first:
+      213: -7972510038441178007
+    second: ShipDamageCracks_Tex_28
+  - first:
+      213: -5660719568709413261
+    second: ShipDamageCracks_Tex_29
+  - first:
+      213: 8482827375965042497
+    second: ShipDamageCracks_Tex_30
+  - first:
+      213: 9115893518104857871
+    second: ShipDamageCracks_Tex_31
+  - first:
+      213: 813029814036003090
+    second: ShipDamageCracks_Tex_32
+  - first:
+      213: 1894308033384415162
+    second: ShipDamageCracks_Tex_33
+  - first:
+      213: 7063807418057777127
+    second: ShipDamageCracks_Tex_34
+  - first:
+      213: 8921159504548999104
+    second: ShipDamageCracks_Tex_35
+  - first:
+      213: 640909055336210574
+    second: ShipDamageCracks_Tex_36
+  - first:
+      213: -1868976254085618037
+    second: ShipDamageCracks_Tex_37
+  - first:
+      213: 5960747766581389248
+    second: ShipDamageCracks_Tex_38
+  - first:
+      213: 5052153876720939368
+    second: ShipDamageCracks_Tex_39
+  - first:
+      213: 53334835336836008
+    second: ShipDamageCracks_Tex_40
+  - first:
+      213: -5430909584790235955
+    second: ShipDamageCracks_Tex_41
+  - first:
+      213: 5948668913854074635
+    second: ShipDamageCracks_Tex_42
+  - first:
+      213: -7820919856659264089
+    second: ShipDamageCracks_Tex_43
+  - first:
+      213: 8753393073760011410
+    second: ShipDamageCracks_Tex_44
+  - first:
+      213: -798562937412745777
+    second: ShipDamageCracks_Tex_45
+  - first:
+      213: 6129160807755205604
+    second: ShipDamageCracks_Tex_46
+  - first:
+      213: -4027065879217305372
+    second: ShipDamageCracks_Tex_47
+  - first:
+      213: 8096967555419612819
+    second: ShipDamageCracks_Tex_48
+  - first:
+      213: 2024404121939491648
+    second: ShipDamageCracks_Tex_49
+  - first:
+      213: -8726486409214912762
+    second: ShipDamageCracks_Tex_50
+  - first:
+      213: -6204665698237987210
+    second: ShipDamageCracks_Tex_51
+  - first:
+      213: -6836113558866216891
+    second: ShipDamageCracks_Tex_52
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShipDamageCracks_Tex_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2da14f8d411ed10800000000000000
+      internalID: 2153025018900697799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShipDamageCracks_Tex_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b26ff862ab3d660800000000000000
+      internalID: 7409470486741396236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShipDamageCracks_Tex_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf4eb0d2507484e0800000000000000
+      internalID: -1980334435144413250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShipDamageCracks_Tex_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57f7dffe1d411890800000000000000
+      internalID: -7489119909803722915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

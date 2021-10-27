@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6855748450368694246
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6855748450368694243}
+  - component: {fileID: 6855748450368694240}
+  - component: {fileID: 6855748450368694241}
+  m_Layer: 0
+  m_Name: EnemySpawnPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6855748450368694243
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6855748450368694246}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 689, y: 626, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6855748450368694240
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6855748450368694246}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2f6303b15736b64aad147f0f36e5107, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isContainTurret: 0
+  turretId: 0
+  rotateAngle: 0
+  spawnAreaHeight: 74
+  spawnAreaWeight: 127
+  maxEnemyNumber: 100
+  enemyPrefabs:
+  - {fileID: 9057076417354735390, guid: 60c6041213a3bd143ba73e346c2859b5, type: 3}
+  - {fileID: 1861765716641571657, guid: e665f1ff08fa7df429cdde9c9e1e2541, type: 3}
+  - {fileID: 1910896389239571042, guid: 65ded995086e24c40ad722b17438e90e, type: 3}
+  - {fileID: 5570697961327086739, guid: d008cd8e019b091429e6e3505253c8ed, type: 3}
+  - {fileID: 5715390697865483470, guid: 1d14b889e39f05c4ebbfa527a1dcd7be, type: 3}
+--- !u!114 &6855748450368694241
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6855748450368694246}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cc4c221e0c920d4485dedaeb732a955, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ship: {fileID: 0}
+  activeDistance: 120
+  gameObjects: []

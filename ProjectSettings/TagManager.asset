@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Stairs
+  - ShooterController
+  - ShipMoveController
+  - Enemy
+  - Ship
+  - Bullet
+  - BulletBound
+  - EnemyChadingPoint
+  - PauseMenu
+  - Laser
+  - EnemyBullet
+  - EnemySpawnPoints
+  - EnemyLairs
+  - PickUps
+  - ShipShield
+  - BossHands
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ShipBody
+  - Player
+  - ShipGround
+  - Enemy
+  - Bullet
+  - Obstacle
+  - ShipWall
+  - MainCamera
+  - Minimap
+  - ShipInside
+  - Particles
+  - PIckUps
+  - Bigmap
+  - UnderWaterBomb
+  - BossEgg
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 762630005
+    locked: 0
+  - name: MiniMap
+    uniqueID: 304698617
+    locked: 0
+  - name: EnemyLair
+    uniqueID: 956010911
+    locked: 0
+  - name: Ship
+    uniqueID: 1707305225
+    locked: 0
+  - name: ShipInsideBG
+    uniqueID: 3458116261
+    locked: 0
+  - name: Player
+    uniqueID: 1111369685
+    locked: 0
+  - name: Enemy
+    uniqueID: 3418948859
+    locked: 0
+  - name: BossEgg
+    uniqueID: 3236673231
+    locked: 0
+  - name: PickUps
+    uniqueID: 3105757285
+    locked: 0
+  - name: Bullet
+    uniqueID: 3070054787
+    locked: 0
+  - name: Obstacles
+    uniqueID: 2626140315
+    locked: 0
+  - name: Particles
+    uniqueID: 418291785
+    locked: 0
+  - name: UI
+    uniqueID: 3674052583
+    locked: 0

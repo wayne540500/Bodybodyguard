@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 64c5461c073d73148b7f7fc03f8afdc1
+  - enabled: 1
+    path: Assets/Scenes/ChoosingCharacter.unity
+    guid: 811cd22e70e052f458a46d0316445535
+  - enabled: 1
+    path: Assets/Scenes/Level_Oral.unity
+    guid: c5107fe520b586641b114efb29eb4b59
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: 66dfde70cb7e5c24a9070ec2cc0d9be3
+  - enabled: 1
+    path: Assets/Scenes/Level_Stomach.unity
+    guid: 0d94ed0ebf8bd96469a8f2917d4f6f5f
+  - enabled: 1
+    path: Assets/Scenes/Level_Intestine.unity
+    guid: fb533d06ee22a7e47a463c87b2b1fd04
+  - enabled: 1
+    path: Assets/Scenes/Level_LargeIntestine.unity
+    guid: a722498f47784894b948475297210b6f
+  - enabled: 1
+    path: Assets/Scenes/Final.unity
+    guid: cc1f9f4734a7840458ab904d7f1a9795
+  m_configObjects: {}
